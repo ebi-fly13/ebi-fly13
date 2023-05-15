@@ -2,7 +2,12 @@
 
 I'm ebi-fly13.
 
-blog: https://trap.jp/author/ebi/
+[![ebi_fly](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Febi_fly)](https://atcoder.jp/users/ebi_fly)
+[![ebi_fly](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Febi_fly)](https://codeforces.com/profile/ebi_fly)
+
+My competitive programing Library is here.
+
+[![GitHub Pages](https://img.shields.io/static/v1?label=Library&message=+&color=brightgreen&logo=github)](https://ebi-fly13.github.io/Library/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ebi-fly13&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
